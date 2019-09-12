@@ -1,7 +1,7 @@
  var friends =[
     {
     "name":"Ahmed",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://lnu.se/imagevault/publishedmedia/6dg7dfsjs7is7vnd0wgk/ali_beskuren.jpg",
     "scores":[
         5,
         1,
@@ -16,8 +16,24 @@
       ]
   },
   {
+    "name":"Jennifer",
+    "photo":"https://upload.wikimedia.org/wikipedia/commons/1/16/JenniferAnistonHWoFFeb2012.jpg",
+    "scores":[
+        1,
+        2,
+        3,
+        1,
+        1,
+        5,
+        1,
+        5,
+        4,
+        5
+      ]
+  },
+  {
     "name":"Sofia",
-    "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+    "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNcpFUsyxwEWvnfwFe_gE2JtQtN6VCXLssDfjHf1fuWbZfD21Y",
     "scores":[
         3,
         2,
