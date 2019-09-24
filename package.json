@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/Marciagzq/FriendFinder.git"
   },
-  "author": "",
+  "author": "Marcia.gzq",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Marciagzq/FriendFinder/issues"
@@ -19,6 +19,8 @@
   "homepage": "https://github.com/Marciagzq/FriendFinder#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "path": "^0.12.7"
+    "mysql": "^2.17.1",
+    "path": "^0.12.7",
+    "sequelize": "^5.19.0"
   }
 }
